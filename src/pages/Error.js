@@ -8,7 +8,7 @@ export default function ErrorPage(){
         <MainNavigation/>
         <main>
             <h1>An error Occurred!</h1>
-            <p>Could not findt his page!</p>
+            <p>Could not find this page!</p>
         </main>
         </>
     )
